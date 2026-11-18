@@ -40,7 +40,7 @@
   <a href="[malt-url]"><img src="https://img.shields.io/badge/Malt-FC5757?style=for-the-badge" alt="Malt" /></a>
   <a href="[contra-url]"><img src="https://img.shields.io/badge/Contra-000000?style=for-the-badge" alt="Contra" /></a>
   <a href="[cal-link]"><img src="https://img.shields.io/badge/Book_a_call-2ea44f?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
-  <a href="mailto:kaiesmahmud@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kaiesmahmudnehal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="center">Find me</h3>
@@ -76,7 +76,7 @@
 - 🎮 Built **real-time multiplayer** game servers with a transactional wallet ledger
 - 🏢 Founder of **[DevdeerTech](https://devdeer.tech)** — remote team building web and mobile platforms
 - 🌍 Based in Dhaka (UTC+6), working European and Australian hours
-- 📫 Reach me: **kaiesmahmud@gmail.com**
+- 📫 Reach me: **kaiesmahmudnehal@gmail.com**
 
 ---
 
@@ -282,7 +282,7 @@ I use AI tools daily for planning, code review, test generation and documentatio
 
 <h3 align="center">Let's build something</h3>
 <p align="center">
-  <a href="mailto:kaiesmahmud@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kaiesmahmudnehal@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="[cal-link]"><img src="https://img.shields.io/badge/Book_a_15--min_call-2ea44f?style=for-the-badge" alt="Book a call" /></a>
   <a href="[cv-link]"><img src="https://img.shields.io/badge/Download_CV-1f6feb?style=for-the-badge" alt="CV" /></a>
 </p>
